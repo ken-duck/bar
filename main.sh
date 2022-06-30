@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-bar=bar
+bar =bar
 
 echo $bar
